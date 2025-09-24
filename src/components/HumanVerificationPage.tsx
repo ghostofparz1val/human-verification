@@ -183,7 +183,7 @@ export default function HumanVerificationPage(): JSX.Element {
                                     <h4 className="mt-2">Verification Complete</h4>
                                     <p className="text-muted">You passed the human test — you can read, have taste, and still left me on seen. Proud of you.</p>
                                     <div className="d-flex flex-column flex-sm-row justify-content-center gap-2 mt-3">
-                                        <a href={whatsappLink} target="_blank" rel="noreferrer" className="btn btn-whatsapp">DM on WhatsApp</a>
+                                        <a href={whatsappLink} target="_blank" rel="noreferrer" className="btn btn-whatsapp">✨ Click to upgrade your love life</a>
                                         <button className="btn btn-outline-secondary" onClick={reset}>Verify again</button>
                                     </div>
                                     <div className="mt-3 small text-muted">Made with mild sarcasm and actual effort.</div>
