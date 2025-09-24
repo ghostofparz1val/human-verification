@@ -1,4 +1,3 @@
-import React from "react";
 import HumanVerificationPage from "./components/HumanVerificationPage";
 
 function App() {
